@@ -5,7 +5,7 @@ const { en, es, ar, id, pt, rs } = require('./libs/idiomas/total-idiomas.js')
 const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["50582340051", "Owner", true], ["595984838201"], ["51918534156"], ["123456789"]]
+global.owner = [["919728714060", "Owner", true], ["123456789"], ["123456789"], ["123456789"]]
 global.mods = []
 global.premium = []
 global.blockList = []
@@ -17,15 +17,15 @@ global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
 global.vs = '1.2'
 global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
 global.creador2 = 'ELIASAR YT'
-global.name = '𝑪𝑹𝑬𝑨𝑫𝑶𝑹'
+global.name = 'sanju'
 global.nunber = Math.floor(Math.random() * (27 - 18 + 1)) + 18;
 
 
 
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
-global.phoneNumber = ""
+global.botNumberCode = "" //Ejemplo: +919728714060
+global.phoneNumber = "919728714060"
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Managua' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
