@@ -6,17 +6,17 @@ const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [["919728714060", "Owner", true], ["123456789"], ["123456789"], ["123456789"]]
-global.mods = []
-global.premium = []
+global.mods = [" public"]
+global.premium = ["919728714060"]
 global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
 global.pagina = "atom.bio/blogansi"
-global.botname = "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
-global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
+global.botname = "✨ sanju-𝐁𝐎𝐓 ✨"
+global.wm = '✨ sanju-𝐁𝐎𝐓 ✨'
 global.vs = '1.2'
-global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
-global.creador2 = 'ELIASAR YT'
+global.creador = 'sanju 𝑌𝑇'
+global.creador2 = 'sanju YT'
 global.name = 'sanju'
 global.nunber = Math.floor(Math.random() * (27 - 18 + 1)) + 18;
 
